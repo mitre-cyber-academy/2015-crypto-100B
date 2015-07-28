@@ -1,4 +1,4 @@
-# Cryptology 100
+# Crypto 100
 
 This a key encrypted using the author of Gravity Fall's symbol cypher, which can be found [here](http://gravityfalls.wikia.com/wiki/List_of_cryptograms) and [here](http://themysteryofgravityfalls.com/).
 
