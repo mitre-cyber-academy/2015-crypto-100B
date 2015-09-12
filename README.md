@@ -8,3 +8,5 @@ This a key encrypted using the author of Gravity Fall's symbol cypher, which can
 Use the symbol cypher to decode the message.
 
 Key: MCA dash four two six nine six c six c (MCA-42696c6c)
+
+Second Key: MCA DASH B F ZERO C TWO ONE TWO SEVEN (MCA-BF0C2127)
