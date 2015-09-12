@@ -10,3 +10,5 @@ Use the symbol cypher to decode the message.
 Key: MCA dash four two six nine six c six c (MCA-42696c6c)
 
 Second Key: MCA DASH B F ZERO C TWO ONE TWO SEVEN (MCA-BF0C2127)
+
+Third Key: MCA DASH SEVEN THREE SEVEN FOUR SIX FOUR SIX E (MCA-7374646E)
